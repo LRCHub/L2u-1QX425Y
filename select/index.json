@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "君のことが好きだから",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-21T07:01:09.059576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君のことが好きだから",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_君のことが好きだから_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君のことが好きだから",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_君のことが好きだから_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君のことが好きだから - Kimi no Koto ga Suki dakara",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_君のことが好きだから_-_Kimi_no_Koto_ga_Suki_dakara_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君のことが好きだから (off vocal ver.)",
+      "artist": "AKB48 (アンダーガールズ)",
+      "has_synced": true,
+      "path": "select/04_君のことが好きだから_(off_vocal_ver.)_AKB48_(アンダーガールズ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君のことが好きだから",
+      "artist": "AKB48 (アンダーガールズ)",
+      "has_synced": true,
+      "path": "select/05_君のことが好きだから_AKB48_(アンダーガールズ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君のことが好きだから",
+      "artist": "AKB48 [公式]",
+      "has_synced": true,
+      "path": "select/06_君のことが好きだから_AKB48_[公式].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君のことが好きだから",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/07_君のことが好きだから_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kimi no koto ga Sukidakara [君のことが好きだから ]",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/08_Kimi_no_koto_ga_Sukidakara_[君のことが好きだから_]_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_君のことが好きだから_アンダーガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_02_君のことが好きだから_アンダーガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_03_君のことが好きだから_アンダーガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_04_君のことが好きだから_アンダーガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_05_君のことが好きだから_アンダーガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "君のことが好きだから",
+      "artist": "アンダーガールズ",
+      "has_synced": false,
+      "path": "select/pl_06_君のことが好きだから_アンダーガールズ.txt"
+    }
+  ]
+}
